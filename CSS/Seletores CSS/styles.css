@@ -1,0 +1,27 @@
+#titulo {
+    color: rgb(50,100,57);  /*RED, GREEN, BLUE*/
+    font-size: 55px;
+}
+
+#paragrafo {
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#botao {
+    background: green;
+}
+
+#outro-botao {
+    background: chocolate;
+}
+
+.texto {
+    color:crimson; 
+    font-weight: bold;
+}
+
+.botao {
+    background: blue;
+}
